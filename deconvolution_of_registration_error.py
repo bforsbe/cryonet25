@@ -1,6 +1,7 @@
 # Largely written by chatGPT with essential modifications
 # https://chatgpt.com/share/6819a802-a900-8003-a179-fb27806c5be8
-# can easily be run on e.g. https://python-fiddle.com/ or similar
+# can easily be run on e.g. https://python-fiddle.com/ or similar,
+# as here https://python-fiddle.com/saved/20ccce2b-32e2-4feb-9670-5f756829c5b4
 
 import numpy as np
 import matplotlib.pyplot as plt
